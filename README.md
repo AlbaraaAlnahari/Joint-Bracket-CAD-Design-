@@ -12,7 +12,7 @@ This project contains the 3D design of a U-type joint bracket, typically used to
 
 ## 🖼️ Preview
 
-![Joint Preview](images/joint.png)
+![Joint Preview](Images/joint.png)
 
 
 ---
